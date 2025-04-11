@@ -1,0 +1,40 @@
+//isntOverGame.extren
+have_file:true/false
+map_len
+map_wod
+isNumThunder
+ThunderNumber
+
+maxBack
+back    a line text of the clean-thunder map data    end
+back    a line text of the clean-thunder map data    end
+maxEnd
+
+
+work 2024-9-30
+---------------------------------
+@this is the end of the file
+@isntOverGame.extren
+@the files format is
+@to come 3551842864@qq.com
+@add 3551842864 in QQ
+
+_TheSource.cpp               //84
+_TheSource.h                 //38
+
+Block.cpp                    //70
+Block.h                      //41
+
+GameRun.cpp                  //438
+GameRun.h                    //45
+
+main.cpp                     //17
+
+OldGameData.cpp              //120
+OldGameData.h                //25
+
+SetMode.cpp                  //187
+SetMode.h                    //22
+
+ZZ_ClearThunderManager.cpp   //348
+ZZ_ClearThunderManager.h     //37
